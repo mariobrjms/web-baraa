@@ -3,7 +3,7 @@ import ReactDOM from "react-dom/client";
 import App from "./App.jsx";
 import { BrowserRouter } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
-import "./dist/css/main.css";
+import "./dest/main.css";
 import Scrolltop from "./components/Scrolltop.jsx";
 import "animate.css";
 import AOS from "aos";
